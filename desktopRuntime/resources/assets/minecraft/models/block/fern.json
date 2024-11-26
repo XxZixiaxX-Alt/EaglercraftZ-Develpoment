@@ -1,6 +1,7 @@
 {
-    "parent": "block/tallgrass",
-    "textures": {
-        "cross": "blocks/fern"
+  "variants": {
+    "": {
+      "model": "minecraft:block/fern"
     }
+  }
 }

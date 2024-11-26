@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/planks_big_oak"
+  "variants": {
+    "": {
+      "model": "minecraft:block/dark_oak_planks"
     }
+  }
 }

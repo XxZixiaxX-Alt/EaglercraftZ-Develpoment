@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/diamond_block"
+  "variants": {
+    "": {
+      "model": "minecraft:block/diamond_block"
     }
+  }
 }

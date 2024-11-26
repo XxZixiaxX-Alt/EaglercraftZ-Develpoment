@@ -1,8 +1,26 @@
 {
-    "parent": "block/orientable",
-    "textures": {
-        "top": "blocks/furnace_top",
-        "front": "blocks/dispenser_front_horizontal",
-        "side": "blocks/furnace_side"
+  "variants": {
+    "facing=down": {
+      "model": "minecraft:block/dispenser_vertical",
+      "x": 180
+    },
+    "facing=east": {
+      "model": "minecraft:block/dispenser",
+      "y": 90
+    },
+    "facing=north": {
+      "model": "minecraft:block/dispenser"
+    },
+    "facing=south": {
+      "model": "minecraft:block/dispenser",
+      "y": 180
+    },
+    "facing=up": {
+      "model": "minecraft:block/dispenser_vertical"
+    },
+    "facing=west": {
+      "model": "minecraft:block/dispenser",
+      "y": 270
     }
+  }
 }

@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/cobblestone_mossy"
+  "variants": {
+    "": {
+      "model": "minecraft:block/mossy_cobblestone"
     }
+  }
 }

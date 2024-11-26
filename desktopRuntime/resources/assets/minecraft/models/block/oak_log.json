@@ -1,7 +1,16 @@
 {
-    "parent": "block/cube_column",
-    "textures": {
-        "end": "blocks/log_oak_top",
-        "side": "blocks/log_oak"
+  "variants": {
+    "axis=x": {
+      "model": "minecraft:block/oak_log_horizontal",
+      "x": 90,
+      "y": 90
+    },
+    "axis=y": {
+      "model": "minecraft:block/oak_log"
+    },
+    "axis=z": {
+      "model": "minecraft:block/oak_log_horizontal",
+      "x": 90
     }
+  }
 }

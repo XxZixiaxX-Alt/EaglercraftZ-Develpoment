@@ -1,6 +1,7 @@
 {
-    "parent": "block/cross",
-    "textures": {
-        "cross": "blocks/flower_tulip_pink"
+  "variants": {
+    "": {
+      "model": "minecraft:block/pink_tulip"
     }
+  }
 }

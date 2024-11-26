@@ -1,6 +1,20 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/bedrock"
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/bedrock"
+      },
+      {
+        "model": "minecraft:block/bedrock_mirrored"
+      },
+      {
+        "model": "minecraft:block/bedrock",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/bedrock_mirrored",
+        "y": 180
+      }
+    ]
+  }
 }

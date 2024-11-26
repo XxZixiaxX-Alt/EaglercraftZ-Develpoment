@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/coarse_dirt"
+  "variants": {
+    "": {
+      "model": "minecraft:block/coarse_dirt"
     }
+  }
 }

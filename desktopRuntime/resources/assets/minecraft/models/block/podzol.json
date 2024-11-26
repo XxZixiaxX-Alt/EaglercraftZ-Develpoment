@@ -1,8 +1,24 @@
 {
-    "parent": "block/cube_bottom_top",
-    "textures": {
-        "bottom": "blocks/dirt",
-        "top": "blocks/dirt_podzol_top",
-        "side": "blocks/dirt_podzol_side"
+  "variants": {
+    "snowy=false": [
+      {
+        "model": "minecraft:block/podzol"
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/podzol",
+        "y": 270
+      }
+    ],
+    "snowy=true": {
+      "model": "minecraft:block/grass_block_snow"
     }
+  }
 }

@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/ice"
+  "variants": {
+    "": {
+      "model": "minecraft:block/ice"
     }
+  }
 }

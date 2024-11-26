@@ -1,6 +1,7 @@
 {
-    "parent": "block/cross",
-    "textures": {
-        "cross": "blocks/flower_dandelion"
+  "variants": {
+    "": {
+      "model": "minecraft:block/dandelion"
     }
+  }
 }

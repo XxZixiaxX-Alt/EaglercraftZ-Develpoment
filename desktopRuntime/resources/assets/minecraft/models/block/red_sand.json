@@ -1,6 +1,21 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/red_sand"
-    }
+  "variants": {
+    "": [
+      {
+        "model": "minecraft:block/red_sand"
+      },
+      {
+        "model": "minecraft:block/red_sand",
+        "y": 90
+      },
+      {
+        "model": "minecraft:block/red_sand",
+        "y": 180
+      },
+      {
+        "model": "minecraft:block/red_sand",
+        "y": 270
+      }
+    ]
+  }
 }

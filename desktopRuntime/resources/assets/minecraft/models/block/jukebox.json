@@ -1,7 +1,7 @@
 {
-    "parent": "block/cube_top",
-    "textures": {
-        "top": "blocks/jukebox_top",
-        "side": "blocks/jukebox_side"
+  "variants": {
+    "": {
+      "model": "minecraft:block/jukebox"
     }
+  }
 }

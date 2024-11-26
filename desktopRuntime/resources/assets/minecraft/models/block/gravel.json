@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/gravel"
+  "variants": {
+    "": {
+      "model": "minecraft:block/gravel"
     }
+  }
 }

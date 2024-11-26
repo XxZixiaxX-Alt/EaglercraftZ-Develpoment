@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/gold_ore"
+  "variants": {
+    "": {
+      "model": "minecraft:block/gold_ore"
     }
+  }
 }

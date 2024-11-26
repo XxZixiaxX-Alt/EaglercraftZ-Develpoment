@@ -1,6 +1,7 @@
 {
-    "parent": "block/cross",
-    "textures": {
-        "cross": "blocks/sapling_oak"
+  "variants": {
+    "": {
+      "model": "minecraft:block/oak_sapling"
     }
+  }
 }

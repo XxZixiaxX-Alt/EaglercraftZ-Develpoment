@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/planks_spruce"
+  "variants": {
+    "": {
+      "model": "minecraft:block/spruce_planks"
     }
+  }
 }

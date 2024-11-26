@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/soul_sand"
+  "variants": {
+    "": {
+      "model": "minecraft:block/soul_sand"
     }
+  }
 }

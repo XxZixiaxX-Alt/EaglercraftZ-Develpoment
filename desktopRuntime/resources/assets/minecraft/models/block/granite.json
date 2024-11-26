@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/stone_granite"
+  "variants": {
+    "": {
+      "model": "minecraft:block/granite"
     }
+  }
 }

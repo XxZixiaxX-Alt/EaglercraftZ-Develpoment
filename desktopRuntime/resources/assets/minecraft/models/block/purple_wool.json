@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/wool_colored_purple"
+  "variants": {
+    "": {
+      "model": "minecraft:block/purple_wool"
     }
+  }
 }

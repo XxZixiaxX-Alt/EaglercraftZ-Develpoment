@@ -1,6 +1,7 @@
 {
-    "parent": "block/cube_all",
-    "textures": {
-        "all": "blocks/coal_block"
+  "variants": {
+    "": {
+      "model": "minecraft:block/coal_block"
     }
+  }
 }

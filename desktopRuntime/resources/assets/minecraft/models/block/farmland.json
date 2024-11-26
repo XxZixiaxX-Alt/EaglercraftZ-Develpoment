@@ -1,15 +1,28 @@
 {
-    "elements": [
-        {   "from": [ 0, 0, 0 ],
-            "to": [ 16, 15, 16 ],
-            "faces": {
-                "down":  { "uv": [ 0, 0, 16, 16 ], "texture": "#dirt", "cullface": "down" },
-                "up":    { "uv": [ 0, 0, 16, 16 ], "texture": "#top" },
-                "north": { "uv": [ 0, 1, 16, 16 ], "texture": "#dirt", "cullface": "north" },
-                "south": { "uv": [ 0, 1, 16, 16 ], "texture": "#dirt", "cullface": "south" },
-                "west":  { "uv": [ 0, 1, 16, 16 ], "texture": "#dirt", "cullface": "west" },
-                "east":  { "uv": [ 0, 1, 16, 16 ], "texture": "#dirt", "cullface": "east" }
-            }
-        }
-    ]
+  "variants": {
+    "moisture=0": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=1": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=2": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=3": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=4": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=5": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=6": {
+      "model": "minecraft:block/farmland"
+    },
+    "moisture=7": {
+      "model": "minecraft:block/farmland_moist"
+    }
+  }
 }

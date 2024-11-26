@@ -1,6 +1,7 @@
 {
-    "parent": "block/leaves",
-    "textures": {
-        "all": "blocks/leaves_spruce"
+  "variants": {
+    "": {
+      "model": "minecraft:block/spruce_leaves"
     }
+  }
 }
